@@ -8,6 +8,3 @@
 4. P2033460 Meng Xianghao
 5. P2129707 Leong Kai Joon
 
-## Hosting links
-- Heroku: https://ades-ades-ades.herokuapp.com
-- Netlify: https://ades-team-5.netlify.app/
